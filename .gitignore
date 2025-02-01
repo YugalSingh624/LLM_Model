@@ -1,3 +1,7 @@
 openwebtext
 val_split.txt
 train_split.txt
+__pycache__
+model-01.pkl
+tempCodeRunnerFile.py
+tempCodeRunnerFile.python
